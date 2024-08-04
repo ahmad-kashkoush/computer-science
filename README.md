@@ -16,11 +16,23 @@
 
 # Contents
 
+- [What I'm doing](#)
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
+
+# What I'm Doing
+
+I'm forking this repo to document my progress in this roadmap, I'll start with my own plan which starts will be like the following:
+
+- [ ] Operating Systems
+- [ ] Networking
+- [ ] This roadmap from start to finish
+
+- Plan will get updated as long as I'm going
+- I may add my frontend track to the plan
 
 # Summary
 
@@ -53,7 +65,7 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet
 ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
-  
+
 > **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo](https://github.com/ossu/computer-science) to see what courses to do.
 
 **Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
@@ -313,7 +325,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `Professional Ethics`
 `Intellectual Property`
 `Privacy and Civil Liberties`
-`and more`
+
+###### `and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
